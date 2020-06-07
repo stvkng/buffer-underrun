@@ -3,7 +3,8 @@ description: >-
   Making coasters since the mid-nineties.
 baseurl: ""
 url: "https://bufferunderrun.co.uk"
-twitter_username: BUnderrun
+twitter_username: bufferunder
+instagram_username: bufferunder
 
 theme: minima
 plugins:
