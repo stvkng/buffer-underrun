@@ -1,8 +1,11 @@
 title: Buffer Underrun
 description: >-
-  Making coasters since the mid-nineties.
+  Making coasters since the late-nineties.
+author: ""
 baseurl: ""
 url: "https://bufferunderrun.co.uk"
+header_pages:
+  - about.md
 twitter_username: bufferunder
 instagram_username: bufferunder
 
