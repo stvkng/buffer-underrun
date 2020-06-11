@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.footer-link-list {
+    list-style: none;
+    margin-left: 0;
+    font-size: 12px;
+    color: #000000;
+}
+
+.footer-link-list a:visited, .footer-link-list a:hover {
+    color: #000000;
+}
+
+.footer-link-list li {
+    margin-bottom: 3px;
+}
+
+.footer-copyright {
+    font-size: 12px;
+}
