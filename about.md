@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-About.
+Hi, I'm Steve.  I write here about tech-related things.
+
+Someone might find something here useful one day.
