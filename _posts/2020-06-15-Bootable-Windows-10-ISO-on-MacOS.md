@@ -27,7 +27,7 @@ Creating a bootable Windows 10 ISO from the contents extracted from the official
 3.    Build a new bootable ISO by running the following command
 
       ```
-      hdiutil makehybrid -o ~/windows_10_custom.iso -udf -iso  -eltorito-boot ~/windows_10_custom/boot/etfsboot.com -no-emul-boot -boot-load-size 8 ~/windows_10_custom
+      hdiutil makehybrid -o ~/windows_10_custom.iso -udf -iso -eltorito-boot ~/windows_10_custom/boot/etfsboot.com -no-emul-boot -boot-load-size 8 ~/windows_10_custom
       ```
 
 4.    The ISO image will be created at `~/windows_10_custom.iso`
