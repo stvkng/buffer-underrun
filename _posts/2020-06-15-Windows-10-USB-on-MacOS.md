@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Creating a Windows 10 USB stick on a Mac
-date:   2020-06-15 00:00:00 +0100
+date:   2020-06-15 09:00:00 +0100
 category: macos
 tags: ["Windows", "Windows 10", "setup", "usb", "install", "Mac", "MacOS"]
 ---
