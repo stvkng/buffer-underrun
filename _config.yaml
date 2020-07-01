@@ -9,6 +9,7 @@ header_pages:
   - about.md
 twitter_username: bufferunder
 instagram_username: bufferunder
+google_analytics: UA-171536422-1
 
 theme: minima
 plugins:
