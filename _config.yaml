@@ -13,6 +13,7 @@ instagram_username: bufferunder
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 minima:
   date_format: "%d %B %Y"
